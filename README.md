@@ -7,6 +7,13 @@
 
 2. To start backend server -> npm start
 
+# Features
+
+1. sorting
+2. filtering
+3. pagination
+4. authentication
+
 # Home Page
 
 ![again home](https://user-images.githubusercontent.com/121368970/229431676-00ce709f-a3ef-42bd-80e8-e765f47bbcb6.png)
